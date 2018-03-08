@@ -1,3 +1,3 @@
 class Person 
-  def 
+  def "Hello World"
 end
